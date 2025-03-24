@@ -20,7 +20,7 @@ class UZUM {
     while (!dateLimitReached) {
       var messages = await query.querySms(
         kinds: [SmsQueryKind.inbox],
-        address: "UzumBank.uz",
+        //address: "UzumBank.uz",
         start: index,
         count: pageSize,
       );
@@ -29,6 +29,9 @@ class UZUM {
         if (m.date?.isBefore(limit) == true) {
           dateLimitReached = true;
           break;
+        }
+        if (m.address! != "UzumBank.uz" && m.address! != "UzumBank") {
+          continue;
         }
         if (m.body == null) {
           continue;
