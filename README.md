@@ -2,6 +2,8 @@
 
 UZCARD HUMO UZUM SMS Report
 
+Similar android applicaton: [https://play.google.com/store/apps/details?id=ma.projects.cardsmsreport](https://play.google.com/store/apps/details?id=ma.projects.cardsmsreport)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
