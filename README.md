@@ -2,7 +2,7 @@
 
 UZCARD HUMO UZUM SMS Report
 
-Similar android applicaton: [https://play.google.com/store/apps/details?id=ma.projects.cardsmsreport](https://play.google.com/store/apps/details?id=ma.projects.cardsmsreport)
+Link to test the app (send me your gmail): [https://play.google.com/apps/testing/ma.projects.cardsmsreport](https://play.google.com/apps/testing/ma.projects.cardsmsreport)
 
 ## Getting Started
 
